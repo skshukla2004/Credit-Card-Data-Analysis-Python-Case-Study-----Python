@@ -125,6 +125,6 @@ Developed a reusable Python function to:
 ---
 
 ### 📌 Author
-Shubham Vishwakarma  
+Shashikant Shukla  
 Aspiring Data Analyst | Python | SQL | Power BI  
 
